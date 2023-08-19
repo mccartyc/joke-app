@@ -144,7 +144,7 @@ const jokes = [
           "punchline": "Never mind, it’s too cheesy"
         },
         {
-          "joke": "I ordered a chicken and an egg on Amazon…",
+          "joke": "I ordered a chicken and an egg on Amazon...",
           "punchline": "I’ll let you know"
         },
         {
@@ -152,7 +152,7 @@ const jokes = [
           "punchline": "He couldn’t see himself doing it."
         },
         {
-          "joke": "If you’re packing for a trip and you’re running out of room, pack a couple of portobello’s in there",
+          "joke": "If you’re packing for a trip and you’re running out of room, pack a couple of portobello’s in there...",
           "punchline": "that way you’ll end up with two mushrooms"
         },
         {
@@ -177,14 +177,14 @@ const jokes = [
         },
         {
           "joke": "What do you call a nosey pepper?",
-          "punchline": "It’s jalapeño business."
+          "punchline": "It’s jalapeño business"
         },
         {
           "joke": "What’s an internal temperature of a Tauntaun?",
           "punchline": "Luke warm"
         },
         {
-          "joke": "What do you call a boomerang that won’t go through?",
+          "joke": "What do you call a boomerang that doesn’t come back?",
           "punchline": "A stick"
         },
         {
@@ -264,7 +264,7 @@ const jokes = [
           "punchline": "So I pushed her"
         },
         {
-          "joke": "If you have my fish jokes…",
+          "joke": "If you have my fish jokes...",
           "punchline": "Let meno"
         },
         {
@@ -278,10 +278,6 @@ const jokes = [
         {
           "joke": "Why did the transgender man only eat salad?",
           "punchline": "Because he was a her before"
-        },
-        {
-          "joke": "Did you hear about that blonde actress who got stabbed?",
-          "punchline": "Reece… Witherspoon? No, with a knife."
         },
         {
           "joke": "Did you know humans eat more bananas than monkeys?",

@@ -31,7 +31,10 @@
 }
 
 .punchline.visible {
-  height: 50px; /* Set the desired height for the punchline */
+  height: 3cm; /*Set the desired height for the punchline*/
+  width: 100%;
+  padding: 15px;
+  overflow: visible;
 }
 
 .heading {
