@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App" onClick={togglePunchline}>
       <header className="App-header">
-        <h1 className="heading">Joke App</h1>
+        <h1 className="heading">Chuckle Champ</h1>
         <div className="joke-container">
           <div className="joke">
             <p>{jokes[jokesOrder[currentIndex]].joke}</p>
